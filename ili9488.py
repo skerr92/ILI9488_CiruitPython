@@ -15,7 +15,7 @@ _INIT_SEQUENCE = (
     b"\xC0\x17\x15"
     b"\xC1\x41"
     b"\xC5\x00\x12\x80"
-    b"\x36\48"
+    b"\x36\x48"
     b"\x3A\x66"
     b"\xB0\x00"
     b"\xB1\xA0"
