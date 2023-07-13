@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2023 Oak Development Technologies
+# SPDX-License-Identifier: MIT
+# Generic Circuit Python Driver for ILI9488 280x320 displays
 try:
     # used for typing only
     from typing import Any
